@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725403131957
+  login: 1725403065212
+money: '0'
+last-account-name: Nigga
+lastlocation:
+  world: d88b7dff-27f9-4d4c-865d-023c66fb8fdc
+  world-name: world
+  x: -24.5
+  y: 72.0
+  z: 171.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: d88b7dff-27f9-4d4c-865d-023c66fb8fdc
+  world-name: world
+  x: -10.030746975985043
+  y: 66.0
+  z: 156.90301211106865
+  yaw: -304.62548828125
+  pitch: 3.1126489639282227

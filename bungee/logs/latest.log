@@ -1,0 +1,141 @@
+[22:29:47] [main/INFO]: Using mbed TLS based native cipher.
+[22:29:47] [main/INFO]: Using zlib based native compressor.
+[22:29:47] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
+[22:29:47] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[22:29:47] [main/INFO]: Epoll is working, utilising it!
+[22:29:47] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[22:29:47] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[22:29:47] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[22:29:47] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[22:29:47] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[22:29:47] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[22:29:47] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:47] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:47] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:47] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:47] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:47] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:47] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[22:29:47] [main/WARN]: :>  
+[22:29:47] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[22:29:47] [main/WARN]: :>  
+[22:29:47] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[22:29:47] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[22:29:47] [main/WARN]: :>  apart from the versions listed below:
+[22:29:47] [main/WARN]: :>  
+[22:29:47] [main/WARN]: :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+[22:29:47] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+[22:29:47] [main/WARN]: :>  - FlameCord: 1.1.1
+[22:29:47] [main/WARN]: :>  
+[22:29:47] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[22:29:47] [main/WARN]: :>  
+[22:29:47] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[22:29:47] [main/WARN]: :>  
+[22:29:47] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[22:29:47] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[22:29:48] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[22:29:48] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[22:29:48] [main/WARN]: Forced host server pvp is not defined
+[22:29:49] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:49] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:49] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:49] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:49] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:49] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[22:29:49] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[22:29:49] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[22:29:49] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[22:29:49] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[22:29:49] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[22:29:49] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/googlcraft/bungee/plugins/EaglercraftXBungee/eagcert/$dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
+[22:33:24] [main/INFO]: Command not found
+[22:33:36] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/googlcraft/bungee/server-icon.png
+[22:33:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52170]: Connected via websocket
+[22:33:38] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52170]: Origin header is https://eaglercraft.com
+[22:33:39] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52170]: Logged in as 'YeelerYeeish721d'
+[22:33:39] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52170|YeelerYeeish721d] -> UpstreamBridge has connected
+[22:33:39] [Netty Worker IO Thread #2/INFO]: [YeelerYeeish721d|/[0:0:0:0:0:0:0:1%0]:52170] <-> ServerConnector [lobby] has connected
+[22:33:43] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36130]: Connected via websocket
+[22:33:43] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36130]: Origin header is https://eaglercraft.com
+[22:33:43] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36130]: Logged in as 'googl'
+[22:33:43] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36130|googl] -> UpstreamBridge has connected
+[22:33:43] [Netty Worker IO Thread #3/INFO]: [googl|/[0:0:0:0:0:0:0:1%0]:36130] <-> ServerConnector [lobby] has connected
+[22:33:43] [Netty Worker IO Thread #3/INFO]: [googl] disconnected with: Kicked whilst connecting to lobby: [LoginSecurity] This account is registered under the name Googl, please log in as such.
+[22:33:43] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:36130|googl] -> UpstreamBridge has disconnected
+[22:33:43] [Netty Worker IO Thread #3/INFO]: [googl|/[0:0:0:0:0:0:0:1%0]:36130] <-> ServerConnector [lobby] has disconnected
+[22:33:50] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36142]: Connected via websocket
+[22:33:50] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36142]: Origin header is https://eaglercraft.com
+[22:33:51] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36142]: Logged in as 'googl'
+[22:33:51] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36142|googl] -> UpstreamBridge has connected
+[22:33:51] [Netty Worker IO Thread #0/INFO]: [googl|/[0:0:0:0:0:0:0:1%0]:36142] <-> ServerConnector [lobby] has connected
+[22:33:51] [Netty Worker IO Thread #0/INFO]: [googl] disconnected with: Kicked whilst connecting to lobby: [LoginSecurity] This account is registered under the name Googl, please log in as such.
+[22:33:51] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:36142|googl] -> UpstreamBridge has disconnected
+[22:33:51] [Netty Worker IO Thread #0/INFO]: [googl|/[0:0:0:0:0:0:0:1%0]:36142] <-> ServerConnector [lobby] has disconnected
+[22:33:57] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52170|YeelerYeeish721d] -> UpstreamBridge has disconnected
+[22:33:57] [Netty Worker IO Thread #2/INFO]: [YeelerYeeish721d] disconnected with: Proxy lost connection to server.
+[22:33:57] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52170|YeelerYeeish721d] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:34:03] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51698]: Connected via websocket
+[22:34:03] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51698]: Origin header is https://eaglercraft.com
+[22:34:03] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51698]: Logged in as 'YeelerYeeish721d'
+[22:34:03] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:51698|YeelerYeeish721d] -> UpstreamBridge has connected
+[22:34:03] [Netty Worker IO Thread #1/INFO]: [YeelerYeeish721d|/[0:0:0:0:0:0:0:1%0]:51698] <-> ServerConnector [lobby] has connected
+[22:34:20] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45354]: Connected via websocket
+[22:34:20] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45354]: Origin header is https://eaglercraft.com
+[22:34:20] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45354]: Logged in as 'googl'
+[22:34:20] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:45354|googl] -> UpstreamBridge has connected
+[22:34:20] [Netty Worker IO Thread #3/INFO]: [googl|/[0:0:0:0:0:0:0:1%0]:45354] <-> ServerConnector [lobby] has connected
+[22:34:20] [Netty Worker IO Thread #3/INFO]: [googl] disconnected with: Kicked whilst connecting to lobby: [LoginSecurity] This account is registered under the name Googl, please log in as such.
+[22:34:20] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:45354|googl] -> UpstreamBridge has disconnected
+[22:34:20] [Netty Worker IO Thread #3/INFO]: [googl|/[0:0:0:0:0:0:0:1%0]:45354] <-> ServerConnector [lobby] has disconnected
+[22:34:29] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40006]: Connected via websocket
+[22:34:29] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40006]: Origin header is https://eaglercraft.com
+[22:34:29] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40006]: Logged in as 'Googl'
+[22:34:29] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:40006|Googl] -> UpstreamBridge has connected
+[22:34:29] [Netty Worker IO Thread #1/INFO]: [Googl|/[0:0:0:0:0:0:0:1%0]:40006] <-> ServerConnector [lobby] has connected
+[22:35:00] [Netty Worker IO Thread #1/INFO]: [Googl] disconnected with: Login timed out!
+[22:35:00] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:40006|Googl] -> UpstreamBridge has disconnected
+[22:35:00] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:40006|Googl] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:35:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57652]: Connected via websocket
+[22:35:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57652]: Origin header is https://eaglercraft.com
+[22:35:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57652]: Logged in as 'Googl'
+[22:35:23] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:57652|Googl] -> UpstreamBridge has connected
+[22:35:23] [Netty Worker IO Thread #2/INFO]: [Googl|/[0:0:0:0:0:0:0:1%0]:57652] <-> ServerConnector [lobby] has connected
+[22:35:24] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:51698|YeelerYeeish721d] -> UpstreamBridge has disconnected
+[22:35:24] [Netty Worker IO Thread #1/INFO]: [YeelerYeeish721d] disconnected with: Proxy lost connection to server.
+[22:35:24] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:51698|YeelerYeeish721d] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:35:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:57652|Googl] -> UpstreamBridge has disconnected
+[22:35:59] [Netty Worker IO Thread #2/INFO]: [Googl] disconnected with: Proxy lost connection to server.
+[22:35:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:57652|Googl] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:36:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49752]: Connected via websocket
+[22:36:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49752]: Origin header is https://eaglercraft.com
+[22:36:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49752]: Logged in as 'Googl'
+[22:36:01] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49752|Googl] -> UpstreamBridge has connected
+[22:36:01] [Netty Worker IO Thread #0/INFO]: [Googl|/[0:0:0:0:0:0:0:1%0]:49752] <-> ServerConnector [lobby] has connected
+[22:37:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60546]: Connected via websocket
+[22:37:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60546]: Origin header is https://eaglercraft.q13x.com
+[22:37:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60546]: Logged in as 'Nigga'
+[22:37:45] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:60546|Nigga] -> UpstreamBridge has connected
+[22:37:45] [Netty Worker IO Thread #1/INFO]: [Nigga|/[0:0:0:0:0:0:0:1%0]:60546] <-> ServerConnector [lobby] has connected
+[22:38:53] [Netty Worker IO Thread #0/INFO]: [Googl] disconnected with: Server closed
+[22:38:53] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49752|Googl] -> UpstreamBridge has disconnected
+[22:38:53] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:49752|Googl] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:38:53] [Netty Worker IO Thread #1/WARN]: [/[0:0:0:0:0:0:0:1%0]:60546|Nigga] <-> DownstreamBridge <-> [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[22:38:53] [Netty Worker IO Thread #1/INFO]: [Nigga] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[22:38:53] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:60546|Nigga] -> UpstreamBridge has disconnected
+[22:38:53] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:60546|Nigga] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:42:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38338]: Connected via websocket
+[22:42:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38338]: Origin header is https://eaglercraft.com
+[22:42:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38338]: Logged in as 'Googl'
+[22:42:16] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:38338|Googl] -> UpstreamBridge has connected
+[22:42:16] [Netty Worker IO Thread #2/INFO]: [Googl|/[0:0:0:0:0:0:0:1%0]:38338] <-> ServerConnector [lobby] has connected
+[22:42:49] [Netty Worker IO Thread #2/INFO]: [Googl] disconnected with: Server closed
+[22:42:49] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:38338|Googl] -> UpstreamBridge has disconnected
+[22:42:49] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:38338|Googl] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:54:01] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38796]: Connected via websocket
+[22:54:01] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38796]: Origin header is https://eaglercraft.com
+[22:54:01] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38796]: Logged in as 'Googl'
+[22:54:01] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38796|Googl] -> UpstreamBridge has connected
+[22:54:01] [Netty Worker IO Thread #3/INFO]: [Googl|/[0:0:0:0:0:0:0:1%0]:38796] <-> ServerConnector [lobby] has connected
+[22:55:40] [Netty Worker IO Thread #3/INFO]: [Googl] disconnected with: Server closed
+[22:55:40] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38796|Googl] -> UpstreamBridge has disconnected
+[22:55:40] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38796|Googl] <-> DownstreamBridge <-> [lobby] has disconnected

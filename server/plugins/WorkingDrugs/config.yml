@@ -1,0 +1,23 @@
+drugs:
+  Example:
+    itemID: IDNumber
+    prosEffect:
+      effect_id: level|time_inSecs
+    consEffect:
+      effect_id: level|time_inSecs
+    consChance: chance_lowerThan100
+    overdose: chance_lowerThan100
+    desc: Desc here
+    deathMessage: Custom death message after player comsume drug. [Playername] = player name, [ThisItem] = item name
+  Weed:
+    itemID: 296
+    prosEffect:
+      resistance: 2|20
+      fire_resistance: 1|480
+    consEffect:
+      slowness: 1|15
+      nausea: 1|15
+    consChance: 25
+    overdose: 2
+    desc: '&aSmoke weed everyday'
+    deathMessage: '[Playername] died while using [ThisItem]'
