@@ -139,3 +139,5 @@
 [22:55:40] [Netty Worker IO Thread #3/INFO]: [Googl] disconnected with: Server closed
 [22:55:40] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38796|Googl] -> UpstreamBridge has disconnected
 [22:55:40] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38796|Googl] <-> DownstreamBridge <-> [lobby] has disconnected
+[23:11:13] [main/INFO]: Command not found
+[23:11:14] [main/INFO]: Command not found
