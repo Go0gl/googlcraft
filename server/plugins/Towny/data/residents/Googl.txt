@@ -1,4 +1,4 @@
-lastOnline=1725404042238
+lastOnline=1725410589399
 registered=1725402869875
 isNPC=false
 isJailed=false
@@ -6,6 +6,9 @@ JailSpawn=0
 JailTown=
 title=
 surname=
+town=New_YeezyTOwn
+town-ranks=
+nation-ranks=
 friends=
 
 protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

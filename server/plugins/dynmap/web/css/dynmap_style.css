@@ -367,10 +367,10 @@
 }
 
 /*******************
- * generic sidebar sublist styling
+ * map list-specific styling
  */
 
-.dynmap .panel .subsection {
+.dynmap .panel .world {
     display: block;
     clear: both;
 
@@ -382,7 +382,7 @@
 
 }
 
-.dynmap .sublist .item {
+.dynmap .maplist .map {
     display: block;
     float: left;
 
@@ -399,24 +399,24 @@
     border: 1px solid rgba(64,64,64,0.6);
 }
 
-.dynmap .sublist .item:hover {
+.dynmap .maplist .map:hover {
     background: rgba(64,64,64,0.6);
     border: 1px solid rgba(128,128,128,0.6);
 }
 
-.dynmap .sublist .item.selected {
+.dynmap .maplist .map.selected {
     background: rgba(128,128,128,0.5);
     border: 1px solid rgba(255,255,255,0.5);
 }
 
-.dynmap .sublist .item > a {
+.dynmap .maplist .map > a {
     display: block;
 
     text-indent: -99999px;
     outline: none;
 }
 
-.dynmap .sublist .item > a {
+.dynmap .maplist .map > a {
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -550,12 +550,12 @@
 	background-position: center;
 }
 
-.sidebar .list {
+.playerlist {
 	overflow:hidden;
 }
 
-.sidebar .content {
-	min-height: 24px;
+.worldlist {
+	overflow:hidden;
 }
 
 /*******************

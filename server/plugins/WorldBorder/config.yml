@@ -1,5 +1,5 @@
 cfg-version: 11
-message: '&cYou have reached the edge of this world.'
+message: '&cWhat the rizz! you reached the end of the world!.'
 round-border: true
 debug-mode: false
 whoosh-effect: true
@@ -16,3 +16,10 @@ bypass-list-uuids: []
 fill-memory-tolerance: 500
 prevent-block-place: false
 prevent-mob-spawn: false
+worlds:
+  world:
+    x: 0.0
+    z: 0.0
+    radiusX: 15000
+    radiusZ: 15000
+    wrapping: false

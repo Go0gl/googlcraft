@@ -1,4 +1,4 @@
-towns=
+towns=New_YeezyTOwn
 
 pvp=true
 forcepvp=false
