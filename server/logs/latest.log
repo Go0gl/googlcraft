@@ -1,36 +1,1312 @@
-[00:49:58] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[00:49:58] [Server thread/INFO]: Loading properties
-[00:49:58] [Server thread/INFO]: Default game type: SURVIVAL
-[00:49:58] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[00:49:58] [Server thread/INFO]: Debug logging is disabled
-[00:49:58] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
-[00:49:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:52:56] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[00:52:56] [Server thread/INFO]: Loading properties
+[00:52:56] [Server thread/INFO]: Default game type: SURVIVAL
+[00:52:56] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[00:52:56] [Server thread/INFO]: Debug logging is disabled
+[00:52:56] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[00:52:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
-[00:49:58] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:49:58] [Server thread/INFO]: Data value allowed items: 
-[00:49:58] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+[00:52:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:52:56] [Server thread/INFO]: Data value allowed items: 
+[00:52:56] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
 
-[00:49:58] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[00:52:56] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
 
-[00:49:58] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+[00:52:56] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
 
-[00:49:58] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[00:52:56] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 
-[00:49:58] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[00:52:56] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 
-[00:49:58] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+[00:52:56] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
 
-[00:49:58] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+[00:52:56] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
 
-[00:49:58] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+[00:52:56] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
 
-[00:49:58] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+[00:52:56] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
 
-[00:49:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[00:52:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[00:49:58] [Server thread/INFO]: Generating keypair
-[00:49:59] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[00:49:59] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
-[00:49:59] [Server thread/INFO]: Using default channel type
-[00:49:59] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[00:49:59] [Thread-2/INFO]: Stopping server
+[00:52:56] [Server thread/INFO]: Generating keypair
+[00:52:56] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[00:52:56] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[00:52:56] [Server thread/INFO]: Using default channel type
+[00:52:56] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[00:52:56] [Server thread/INFO]: [dynmap] Loading dynmap v2.5-Dev201706100405
+[00:52:56] [Server thread/INFO]: [dynmap] version=git-PaperSpigot-445 (MC: 1.8.8)
+[00:52:57] [Server thread/INFO]: [dynmap] Mod Support API available
+[00:52:57] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[00:52:57] [Server thread/INFO]: [Questioner] Loading Questioner v0.6
+[00:52:57] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[00:52:57] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.2
+[00:52:57] [Server thread/INFO]: [WorkingDrugs] Loading WorkingDrugs v1.0
+[00:52:57] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.8.7
+[00:52:57] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[00:52:57] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
+[00:52:57] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.20.1
+[00:52:57] [Server thread/INFO]: [Towny] Loading Towny v0.92.0.0 (for MC 1.7.10)
+[00:52:57] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.1
+[00:52:57] [Server thread/INFO]: [Brewery] Loading Brewery v3.1.1
+[00:52:57] [Server thread/INFO]: [TownyChat] Loading TownyChat v0.49
+[00:52:57] [Server thread/INFO]: [TownyNameUpdater] Loading TownyNameUpdater v1.0
+[00:52:57] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[00:52:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[00:52:57] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:52:57] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[00:52:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:52:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:52:57] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[00:52:57] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[00:52:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:52:57] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:52:57] [Server thread/INFO]: Preparing level "world"
+[00:52:57] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:52:57] [Server thread/INFO]: Mob Spawn Range: 4
+[00:52:57] [Server thread/INFO]: Anti X-Ray: true
+[00:52:57] [Server thread/INFO]: 	Engine Mode: 1
+[00:52:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:52:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:52:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:52:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:52:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:52:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:52:57] [Server thread/INFO]: Random Lighting Updates: false
+[00:52:57] [Server thread/INFO]: Structure Info Saving: true
+[00:52:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:52:57] [Server thread/INFO]: Max Entity Collisions: 8
+[00:52:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:52:57] [Server thread/INFO]: Max TNT Explosions: 100
+[00:52:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:52:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:52:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:52:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:52:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:52:57] [Server thread/INFO]: View Distance: 4
+[00:52:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:52:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:52:57] [Server thread/INFO]: Clear tick list: false
+[00:52:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:52:57] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:52:57] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[00:52:57] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[00:52:57] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[00:52:57] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[00:52:57] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[00:52:57] [Server thread/INFO]: Water over lava flow speed: 5
+[00:52:57] [Server thread/INFO]: Fix TNT cannons: false
+[00:52:57] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[00:52:57] [Server thread/INFO]: Keep spawn chunk loaded: true
+[00:52:57] [Server thread/INFO]: World async lighting: false
+[00:52:57] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[00:52:57] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[00:52:57] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:52:57] [Server thread/INFO]: Mob Spawn Range: 4
+[00:52:57] [Server thread/INFO]: Anti X-Ray: true
+[00:52:57] [Server thread/INFO]: 	Engine Mode: 1
+[00:52:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:52:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:52:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:52:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:52:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:52:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:52:57] [Server thread/INFO]: Random Lighting Updates: false
+[00:52:57] [Server thread/INFO]: Structure Info Saving: true
+[00:52:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:52:57] [Server thread/INFO]: Max Entity Collisions: 8
+[00:52:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:52:57] [Server thread/INFO]: Max TNT Explosions: 100
+[00:52:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:52:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:52:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:52:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:52:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:52:57] [Server thread/INFO]: View Distance: 4
+[00:52:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:52:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:52:57] [Server thread/INFO]: Clear tick list: false
+[00:52:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:52:57] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:52:57] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[00:52:57] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[00:52:57] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[00:52:57] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[00:52:57] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[00:52:57] [Server thread/INFO]: Water over lava flow speed: 5
+[00:52:57] [Server thread/INFO]: Fix TNT cannons: false
+[00:52:57] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[00:52:57] [Server thread/INFO]: Keep spawn chunk loaded: true
+[00:52:57] [Server thread/INFO]: World async lighting: false
+[00:52:57] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[00:52:57] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[00:52:57] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:52:57] [Server thread/INFO]: Mob Spawn Range: 4
+[00:52:57] [Server thread/INFO]: Anti X-Ray: true
+[00:52:57] [Server thread/INFO]: 	Engine Mode: 1
+[00:52:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:52:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:52:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:52:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:52:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:52:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:52:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:52:57] [Server thread/INFO]: Random Lighting Updates: false
+[00:52:57] [Server thread/INFO]: Structure Info Saving: true
+[00:52:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:52:57] [Server thread/INFO]: Max Entity Collisions: 8
+[00:52:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:52:57] [Server thread/INFO]: Max TNT Explosions: 100
+[00:52:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:52:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:52:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:52:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:52:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:52:57] [Server thread/INFO]: View Distance: 4
+[00:52:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:52:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:52:57] [Server thread/INFO]: Clear tick list: false
+[00:52:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:52:57] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:52:57] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[00:52:57] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[00:52:57] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[00:52:57] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[00:52:57] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[00:52:57] [Server thread/INFO]: Water over lava flow speed: 5
+[00:52:57] [Server thread/INFO]: Fix TNT cannons: false
+[00:52:57] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[00:52:57] [Server thread/INFO]: Keep spawn chunk loaded: true
+[00:52:57] [Server thread/INFO]: World async lighting: false
+[00:52:57] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[00:52:57] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[00:52:57] [Server thread/INFO]: Preparing start region for level 0 (Seed: 303614679635517788)
+[00:52:58] [Server thread/INFO]: Preparing spawn area: 73%
+[00:52:58] [Server thread/INFO]: Preparing start region for level 1 (Seed: 303614679635517788)
+[00:52:59] [Server thread/INFO]: Preparing spawn area: 17%
+[00:53:00] [Thread-5/INFO]: UUID of player Googl is df063979-2ed5-3704-8b9a-5084a5be5b2d
+[00:53:00] [Server thread/INFO]: Preparing start region for level 2 (Seed: 303614679635517788)
+[00:53:00] [Server thread/INFO]: [dynmap] Enabling dynmap v2.5-Dev201706100405
+[00:53:00] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[00:53:00] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[00:53:00] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[00:53:01] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[00:53:01] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[00:53:01] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[00:53:01] [Server thread/INFO]: [dynmap] Web server started on address localhost:8123
+[00:53:01] [Server thread/INFO]: [dynmap] version 2.5-Dev201706100405 is enabled - core version 2.5-Dev201706100401
+[00:53:01] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[00:53:01] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[00:53:01] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[00:53:01] [Server thread/INFO]: [dynmap] Enabled
+[00:53:01] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[00:53:01] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:53:01] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[00:53:01] [Server thread/INFO]: [Questioner] Enabling Questioner v0.6
+[00:53:01] [Server thread/INFO]: [Questioner] v0.6 - Enabled
+
+[00:53:01] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[00:53:01] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[00:53:01] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[00:53:01] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[00:53:01] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[00:53:01] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[00:53:01] [Server thread/INFO]: [WorkingDrugs] Enabling WorkingDrugs v1.0
+[00:53:01] [Server thread/INFO]: Smoke weeds everyday!
+
+[00:53:01] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.8.7
+[00:53:01] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[00:53:01] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[00:53:01] [Server thread/INFO]: [WorldBorder] [CONFIG] World "world" has border radius 15000 at X: 0.0 Z: 0.0
+[00:53:01] [Server thread/INFO]: [WorldBorder] [CONFIG] Successfully hooked into DynMap for the ability to display borders.
+[00:53:01] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: -15.0 Y: 64.0 Z: 178.0
+[00:53:01] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[00:53:01] [Server thread/INFO]: You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[00:53:02] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[00:53:02] [Server thread/INFO]: No kits found to migrate.
+[00:53:02] [Server thread/INFO]: Loaded 853 items from items.csv.
+[00:53:02] [Server thread/INFO]: Using locale en
+[00:53:02] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[00:53:02] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[00:53:02] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[00:53:02] [Server thread/INFO]: Using config file enhanced permissions.
+[00:53:02] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[00:53:02] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[00:53:02] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[00:53:02] [Server thread/INFO]: [Towny] Enabling Towny v0.92.0.0 (for MC 1.7.10)
+[00:53:02] [Server thread/INFO]: ====================      Towny      ========================
+
+[00:53:02] [Server thread/INFO]: [Towny] Database: [Load] flatfile [Save] flatfile
+
+[00:53:02] [Server thread/INFO]: [Towny] Using: BukkitPermissions, EssentialsX Economy via Vault, Questioner v0.6
+[00:53:02] [Server thread/INFO]: [Towny] Time until a New Day: 11 hours, 6 minutes, 58 seconds
+[00:53:02] [Server thread/INFO]: =============================================================
+[00:53:02] [Server thread/INFO]: [Towny] Version: 0.92.0.0 (for MC 1.7.10) - Mod Enabled
+[00:53:02] [Server thread/INFO]: =============================================================
+[00:53:02] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[00:53:02] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[00:53:02] [Server thread/INFO]: [Brewery] Enabling Brewery v3.1.1
+[00:53:02] [Server thread/INFO]: [0;32;22m[Brewery] [0;37;1mBrewery enabled![m
+
+[00:53:02] [Server thread/INFO]: [TownyChat] Enabling TownyChat v0.49
+[00:53:02] [Server thread/INFO]: [TownyNameUpdater] Enabling TownyNameUpdater v1.0
+[00:53:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:53:02] [Server thread/INFO]: Done (5.810s)! For help, type "help" or "?"
+[00:53:02] [Server thread/INFO]: Timings Reset
+[00:53:02] [Server thread/INFO]: Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.5.6-b49)!
+[00:53:02] [Craft Scheduler Thread - 2/INFO]: §6Fetching version information...
+[00:53:02] [Server thread/INFO]: [TownyChat] -******* TownyChat enabled *******-
+[00:53:02] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
+[00:53:03] [Server thread/INFO]: Googl[/[0:0:0:0:0:0:0:1]:60852] logged in with entity id 382 at ([world]-31.380661994871538, 65.0, 134.1742086068632)
+[00:53:04] [Craft Scheduler Thread - 3/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[00:53:04] [Craft Scheduler Thread - 3/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[00:53:26] [Thread-16/INFO]: UUID of player skibidi_rizz is 68a710f6-cb3d-32cd-81c9-3b8bae4eab37
+[00:53:26] [Server thread/INFO]: skibidi_rizz[/[0:0:0:0:0:0:0:1]:59046] logged in with entity id 387 at ([world]-23.5, 66.0, 136.5)
+[00:53:27] [Server thread/INFO]: Googl issued server command: /bal
+[00:53:32] [Server thread/INFO]: Googl issued server command: /t deposit 300
+[00:53:32] [Server thread/INFO]: [Town Msg] New_YeezyTOwn: Googl deposited 300 into the town bank.
+[00:53:37] [Server thread/INFO]: skibidi_rizz issued server command: /t deposit 100
+[00:53:37] [Server thread/INFO]: [Town Msg] New_YeezyTOwn: skibidi_rizz deposited 100 into the town bank.
+[00:54:02] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[00:54:04] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.a(PlayerInteractManager.java:107) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:626) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:10) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[00:54:05] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.a(PlayerInteractManager.java:107) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:626) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:10) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[00:54:05] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.a(PlayerInteractManager.java:107) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:626) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:10) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[00:54:17] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:17] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:20] [Server thread/INFO]: skibidi_rizz lost connection: Disconnected
+[00:54:20] [Server thread/INFO]: skibidi_rizz left the game.
+[00:54:30] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:30] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:31] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:31] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:31] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:31] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:32] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:32] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:33] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:34] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:35] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:36] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:37] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.a(PlayerInteractManager.java:107) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:626) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:10) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[00:54:37] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.a(PlayerInteractManager.java:107) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:626) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:10) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[00:54:38] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.a(PlayerInteractManager.java:107) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:626) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:10) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[00:54:38] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.a(PlayerInteractManager.java:107) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:626) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:10) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[00:54:38] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.a(PlayerInteractManager.java:107) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:626) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:10) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[00:54:38] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.a(PlayerInteractManager.java:107) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:626) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:10) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[00:54:45] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.interact(PlayerInteractManager.java:463) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:763) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:52) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:1) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 18 more
+[00:54:46] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to WorkingDrugs v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:228) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerInteractManager.a(PlayerInteractManager.java:107) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:626) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:40) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInBlockDig.a(SourceFile:10) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "org.bukkit.inventory.ItemStack.getItemMeta()" is null
+	at me.nahkd.MainDrugs.onUseDrugs(MainDrugs.java:314) ~[?:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 19 more
+[00:59:13] [Server thread/INFO]: /dynmap - Control execution of dynmap.[m
+
+[00:59:13] [Server thread/INFO]:  Valid subcommands:  add-id-for-ip cancelrender del-id-for-ip fullrender hide ids-for-ip ips-for-id pause purgemap purgequeue purgeworld quiet radiusrender render resetstats sendtoweb show stats triggerstats updaterender version webregister[m
+
+[00:59:17] [Server thread/INFO]: /dynmap - Control execution of dynmap.[m
+
+[00:59:17] [Server thread/INFO]:  Valid subcommands:  add-id-for-ip cancelrender del-id-for-ip fullrender hide ids-for-ip ips-for-id pause purgemap purgequeue purgeworld quiet radiusrender render resetstats sendtoweb show stats triggerstats updaterender version webregister[m
+
+[00:59:28] [Server thread/INFO]: World 'flat' not defined/loaded[m
+
+[00:59:31] [Server thread/INFO]: World name is required[m
+
+[00:59:36] [Server thread/INFO]: Full render starting on world 'world'...[m
+
+[00:59:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 100 tiles rendered (100.19 msec/tile, 17.90 msec per render)[m
+
+[00:59:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 200 tiles rendered (100.11 msec/tile, 17.87 msec per render)[m
+
+[01:00:06] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 300 tiles rendered (100.02 msec/tile, 18.63 msec per render)[m
+
+[01:00:16] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 400 tiles rendered (100.37 msec/tile, 18.37 msec per render)[m
+
+[01:00:26] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 500 tiles rendered (99.99 msec/tile, 18.58 msec per render)[m
+
+[01:00:36] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 600 tiles rendered (100.01 msec/tile, 18.47 msec per render)[m
+
+[01:00:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 700 tiles rendered (99.94 msec/tile, 18.39 msec per render)[m
+
+[01:00:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 800 tiles rendered (100.42 msec/tile, 18.61 msec per render)[m
+
+[01:01:06] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 900 tiles rendered (100.35 msec/tile, 18.76 msec per render)[m
+
+[01:01:16] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1000 tiles rendered (100.53 msec/tile, 18.99 msec per render)[m
+
+[01:01:26] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1100 tiles rendered (100.50 msec/tile, 18.95 msec per render)[m
+
+[01:01:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1200 tiles rendered (100.59 msec/tile, 18.94 msec per render)[m
+
+[01:01:47] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1300 tiles rendered (100.54 msec/tile, 19.05 msec per render)[m
+
+[01:01:57] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1400 tiles rendered (100.50 msec/tile, 18.88 msec per render)[m
+
+[01:02:07] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1500 tiles rendered (100.56 msec/tile, 18.95 msec per render)[m
+
+[01:02:17] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1600 tiles rendered (100.51 msec/tile, 18.93 msec per render)[m
+
+[01:02:27] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1700 tiles rendered (100.42 msec/tile, 18.82 msec per render)[m
+
+[01:02:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1800 tiles rendered (100.40 msec/tile, 18.72 msec per render)[m
+
+[01:02:47] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1900 tiles rendered (100.44 msec/tile, 18.79 msec per render)[m
+
+[01:02:57] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2000 tiles rendered (100.41 msec/tile, 18.70 msec per render)[m
+
+[01:03:07] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2100 tiles rendered (100.32 msec/tile, 18.67 msec per render)[m
+
+[01:03:17] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2200 tiles rendered (100.33 msec/tile, 18.67 msec per render)[m
+
+[01:03:27] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2300 tiles rendered (100.32 msec/tile, 18.64 msec per render)[m
+
+[01:03:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2400 tiles rendered (100.30 msec/tile, 18.61 msec per render)[m
+
+[01:03:47] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2500 tiles rendered (100.27 msec/tile, 18.66 msec per render)[m
+
+[01:03:57] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2600 tiles rendered (100.26 msec/tile, 18.63 msec per render)[m
+
+[01:04:07] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2700 tiles rendered (100.25 msec/tile, 18.57 msec per render)[m
+
+[01:04:17] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2800 tiles rendered (100.23 msec/tile, 18.62 msec per render)[m
+
+[01:04:27] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2900 tiles rendered (100.22 msec/tile, 18.63 msec per render)[m
+
+[01:04:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3000 tiles rendered (100.23 msec/tile, 18.65 msec per render)[m
+
+[01:04:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3100 tiles rendered (99.95 msec/tile, 18.70 msec per render)[m
+
+[01:04:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3200 tiles rendered (99.94 msec/tile, 18.68 msec per render)[m
+
+[01:05:08] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3300 tiles rendered (99.96 msec/tile, 18.71 msec per render)[m
+
+[01:05:18] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3400 tiles rendered (99.97 msec/tile, 18.98 msec per render)[m
+
+[01:05:28] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3500 tiles rendered (99.94 msec/tile, 19.01 msec per render)[m
+
+[01:05:39] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3600 tiles rendered (99.95 msec/tile, 19.13 msec per render)[m
+
+[01:05:48] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3700 tiles rendered (99.90 msec/tile, 19.21 msec per render)[m
+
+[01:05:58] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3800 tiles rendered (99.86 msec/tile, 19.28 msec per render)[m
+
+[01:06:08] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3900 tiles rendered (99.84 msec/tile, 19.25 msec per render)[m
+
+[01:06:20] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4000 tiles rendered (99.90 msec/tile, 19.34 msec per render)[m
+
+[01:06:30] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4100 tiles rendered (99.87 msec/tile, 19.46 msec per render)[m
+
+[01:06:40] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4200 tiles rendered (99.91 msec/tile, 19.44 msec per render)[m
+
+[01:06:53] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4300 tiles rendered (100.00 msec/tile, 19.57 msec per render)[m
+
+[01:07:03] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4400 tiles rendered (100.01 msec/tile, 19.56 msec per render)[m
+
+[01:07:13] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4500 tiles rendered (99.92 msec/tile, 19.57 msec per render)[m
+
+[01:07:22] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' completed - 4556 tiles rendered (99.91 msec/map-tile, 19.40 msec per render)[m
+
+[01:07:32] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 100 tiles rendered (101.26 msec/tile, 30.81 msec per render)[m
+
+[01:07:42] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 200 tiles rendered (101.15 msec/tile, 31.52 msec per render)[m
+
+[01:07:52] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 300 tiles rendered (100.73 msec/tile, 31.68 msec per render)[m
+
+[01:08:02] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 400 tiles rendered (100.51 msec/tile, 31.05 msec per render)[m
+
+[01:08:12] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 500 tiles rendered (100.73 msec/tile, 30.81 msec per render)[m
+
+[01:08:22] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 600 tiles rendered (100.66 msec/tile, 30.88 msec per render)[m
+
+[01:08:33] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 700 tiles rendered (100.99 msec/tile, 30.77 msec per render)[m
+
+[01:08:43] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 800 tiles rendered (100.83 msec/tile, 30.80 msec per render)[m
+
+[01:08:54] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 900 tiles rendered (101.84 msec/tile, 31.37 msec per render)[m
+
+[01:09:04] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1000 tiles rendered (101.68 msec/tile, 31.03 msec per render)[m
+
+[01:09:14] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1100 tiles rendered (101.69 msec/tile, 30.92 msec per render)[m
+
+[01:09:24] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1200 tiles rendered (102.06 msec/tile, 31.56 msec per render)[m
+
+[01:09:35] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1300 tiles rendered (102.34 msec/tile, 31.91 msec per render)[m
+
+[01:09:45] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1400 tiles rendered (102.43 msec/tile, 32.14 msec per render)[m
+
+[01:09:56] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1500 tiles rendered (102.68 msec/tile, 32.42 msec per render)[m
+
+[01:10:06] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1600 tiles rendered (102.67 msec/tile, 32.48 msec per render)[m
+
+[01:10:16] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1700 tiles rendered (102.68 msec/tile, 32.44 msec per render)[m
+
+[01:10:27] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1800 tiles rendered (102.80 msec/tile, 32.44 msec per render)[m
+
+[01:10:37] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1900 tiles rendered (102.72 msec/tile, 32.52 msec per render)[m
+
+[01:10:48] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2000 tiles rendered (102.79 msec/tile, 32.48 msec per render)[m
+
+[01:10:58] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2100 tiles rendered (103.00 msec/tile, 32.56 msec per render)[m
+
+[01:11:09] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2200 tiles rendered (103.03 msec/tile, 32.63 msec per render)[m
+
+[01:11:19] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2300 tiles rendered (103.00 msec/tile, 32.62 msec per render)[m
+
+[01:11:29] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2400 tiles rendered (103.12 msec/tile, 32.55 msec per render)[m
+
+[01:11:40] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2500 tiles rendered (103.39 msec/tile, 32.76 msec per render)[m
+
+[01:11:51] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2600 tiles rendered (103.41 msec/tile, 32.67 msec per render)[m
+
+[01:12:01] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2700 tiles rendered (103.39 msec/tile, 32.61 msec per render)[m
+
+[01:12:12] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2800 tiles rendered (103.55 msec/tile, 32.74 msec per render)[m
+
+[01:12:22] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2900 tiles rendered (103.52 msec/tile, 32.68 msec per render)[m
+
+[01:12:33] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3000 tiles rendered (103.58 msec/tile, 32.60 msec per render)[m
+
+[01:12:43] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3100 tiles rendered (103.64 msec/tile, 32.84 msec per render)[m
+
+[01:12:54] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3200 tiles rendered (103.63 msec/tile, 32.77 msec per render)[m
+
+[01:13:04] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3300 tiles rendered (103.60 msec/tile, 32.86 msec per render)[m
+
+[01:13:15] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3400 tiles rendered (103.76 msec/tile, 33.03 msec per render)[m
+
+[01:13:25] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3500 tiles rendered (103.67 msec/tile, 33.00 msec per render)[m
+
+[01:13:35] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3600 tiles rendered (103.56 msec/tile, 32.97 msec per render)[m
+
+[01:13:45] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3700 tiles rendered (103.64 msec/tile, 33.15 msec per render)[m
+
+[01:13:56] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3800 tiles rendered (103.69 msec/tile, 33.17 msec per render)[m
+
+[01:14:06] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3900 tiles rendered (103.67 msec/tile, 33.16 msec per render)[m
+
+[01:14:17] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 4000 tiles rendered (103.80 msec/tile, 33.27 msec per render)[m
+
+[01:14:28] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 4100 tiles rendered (103.83 msec/tile, 33.28 msec per render)[m
+
+[01:14:38] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 4200 tiles rendered (103.86 msec/tile, 33.24 msec per render)[m
+
+[01:14:49] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 4300 tiles rendered (103.88 msec/tile, 33.36 msec per render)[m
+
+[01:14:59] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 4400 tiles rendered (103.87 msec/tile, 33.35 msec per render)[m
+
+[01:15:09] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 4500 tiles rendered (103.82 msec/tile, 33.33 msec per render)[m
+
+[01:15:19] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 4600 tiles rendered (103.75 msec/tile, 33.33 msec per render)[m
+
+[01:15:30] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 4700 tiles rendered (103.77 msec/tile, 33.34 msec per render)[m
+
+[01:15:40] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 4800 tiles rendered (103.72 msec/tile, 33.32 msec per render)[m
+
+[01:15:51] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 4900 tiles rendered (103.84 msec/tile, 33.42 msec per render)[m
+
+[01:16:01] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 5000 tiles rendered (103.84 msec/tile, 33.42 msec per render)[m
+
+[01:16:12] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 5100 tiles rendered (103.83 msec/tile, 33.49 msec per render)[m
+
+[01:16:22] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 5200 tiles rendered (103.89 msec/tile, 33.55 msec per render)[m
+
+[01:16:33] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 5300 tiles rendered (103.87 msec/tile, 33.49 msec per render)[m
+
+[01:16:43] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 5400 tiles rendered (103.81 msec/tile, 33.48 msec per render)[m
+
+[01:16:53] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 5500 tiles rendered (103.86 msec/tile, 33.56 msec per render)[m
+
+[01:17:03] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 5600 tiles rendered (103.78 msec/tile, 33.46 msec per render)[m
+
+[01:17:14] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 5700 tiles rendered (103.83 msec/tile, 33.46 msec per render)[m
+
+[01:17:25] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 5800 tiles rendered (103.88 msec/tile, 33.51 msec per render)[m
+
+[01:17:35] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 5900 tiles rendered (103.89 msec/tile, 33.44 msec per render)[m
+
+[01:17:45] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 6000 tiles rendered (103.82 msec/tile, 33.44 msec per render)[m
+
+[01:17:56] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 6100 tiles rendered (103.87 msec/tile, 33.48 msec per render)[m
+
+[01:18:06] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 6200 tiles rendered (103.89 msec/tile, 33.44 msec per render)[m
+
+[01:18:16] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 6300 tiles rendered (103.84 msec/tile, 33.45 msec per render)[m
+
+[01:18:27] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 6400 tiles rendered (103.91 msec/tile, 33.52 msec per render)[m
+
+[01:18:38] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 6500 tiles rendered (103.92 msec/tile, 33.47 msec per render)[m
+
+[01:18:48] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 6600 tiles rendered (103.89 msec/tile, 33.44 msec per render)[m
+
+[01:18:58] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 6700 tiles rendered (103.87 msec/tile, 33.46 msec per render)[m
+
+[01:19:08] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 6800 tiles rendered (103.84 msec/tile, 33.45 msec per render)[m
+
+[01:19:19] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 6900 tiles rendered (103.88 msec/tile, 33.48 msec per render)[m
+
+[01:19:29] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 7000 tiles rendered (103.86 msec/tile, 33.47 msec per render)[m
+
+[01:19:40] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 7100 tiles rendered (103.86 msec/tile, 33.46 msec per render)[m
+
+[01:19:50] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 7200 tiles rendered (103.89 msec/tile, 33.48 msec per render)[m
+
+[01:20:00] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 7300 tiles rendered (103.84 msec/tile, 33.46 msec per render)[m
+
+[01:20:11] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 7400 tiles rendered (103.85 msec/tile, 33.48 msec per render)[m
+
+[01:20:21] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 7500 tiles rendered (103.82 msec/tile, 33.45 msec per render)[m
+
+[01:20:31] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 7600 tiles rendered (103.82 msec/tile, 33.44 msec per render)[m
+
+[01:20:42] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 7700 tiles rendered (103.86 msec/tile, 33.51 msec per render)[m
+
+[01:20:52] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 7800 tiles rendered (103.83 msec/tile, 33.49 msec per render)[m
+
+[01:21:03] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 7900 tiles rendered (103.85 msec/tile, 33.48 msec per render)[m
+
+[01:21:13] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 8000 tiles rendered (103.85 msec/tile, 33.53 msec per render)[m
+
+[01:21:23] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 8100 tiles rendered (103.84 msec/tile, 33.51 msec per render)[m
+
+[01:21:33] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 8200 tiles rendered (103.82 msec/tile, 33.48 msec per render)[m
+
+[01:21:44] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 8300 tiles rendered (103.82 msec/tile, 33.53 msec per render)[m
+
+[01:21:54] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 8400 tiles rendered (103.76 msec/tile, 33.47 msec per render)[m
+
+[01:22:04] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 8500 tiles rendered (103.77 msec/tile, 33.46 msec per render)[m
+
+[01:22:15] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 8600 tiles rendered (103.84 msec/tile, 33.51 msec per render)[m
+
+[01:22:26] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 8700 tiles rendered (103.88 msec/tile, 33.52 msec per render)[m
+
+[01:22:36] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 8800 tiles rendered (103.87 msec/tile, 33.49 msec per render)[m
+
+[01:22:47] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 8900 tiles rendered (103.95 msec/tile, 33.58 msec per render)[m
+
+[01:22:58] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 9000 tiles rendered (103.95 msec/tile, 33.61 msec per render)[m
+
+[01:23:08] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 9100 tiles rendered (103.92 msec/tile, 33.60 msec per render)[m
+
+[01:23:18] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 9200 tiles rendered (103.92 msec/tile, 33.60 msec per render)[m
+
+[01:23:26] [Server thread/INFO]: Stopping the server
+[01:23:26] [Server thread/INFO]: Stopping server
+[01:23:26] [Server thread/INFO]: [TownyNameUpdater] Disabling TownyNameUpdater v1.0
+[01:23:26] [Server thread/INFO]: [TownyChat] Disabling TownyChat v0.49
+[01:23:26] [Server thread/INFO]: [Brewery] Disabling Brewery v3.1.1
+[01:23:26] [Server thread/INFO]: [0;32;22m[Brewery] [0;37;1mBrewery disabled![m
+
+[01:23:26] [Server thread/INFO]: Disabling EssentialsSpawn v2.20.1
+[01:23:26] [Server thread/INFO]: [Towny] Disabling Towny v0.92.0.0 (for MC 1.7.10)
+[01:23:26] [Server thread/INFO]: ==============================================================
+
+[01:23:26] [Server thread/INFO]: [Towny] Version: 0.92.0.0 (for MC 1.7.10) - Mod Disabled
+
+[01:23:26] [Server thread/INFO]: =============================================================
+
+[01:23:26] [Server thread/INFO]: Disabling EssentialsChat v2.20.1
+[01:23:26] [Server thread/INFO]: Disabling Essentials v2.20.1
+[01:23:26] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[01:23:26] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[01:23:26] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.8.7
+[01:23:26] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[01:23:26] [Server thread/INFO]: [WorkingDrugs] Disabling WorkingDrugs v1.0
+[01:23:26] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[01:23:26] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[01:23:26] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[01:23:26] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[01:23:26] [Server thread/INFO]: [Questioner] Disabling Questioner v0.6
+[01:23:26] [Server thread/INFO]: [Questioner] v0.6 - Disabled
+
+[01:23:26] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[01:23:26] [Server thread/INFO]: [dynmap] Disabling dynmap v2.5-Dev201706100405
+[01:23:26] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[01:23:26] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[01:23:27] [Server thread/INFO]: [dynmap] Saved 5 pending tile renders in world 'world'
+[01:23:27] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
+[01:23:32] [Server thread/INFO]: [dynmap] Disabled
+[01:23:32] [Server thread/INFO]: Saving players
+[01:23:32] [Server thread/INFO]: Googl lost connection: Server closed
+[01:23:32] [Server thread/INFO]: Googl left the game.
+[01:23:32] [Server thread/INFO]: Saving worlds
+[01:23:32] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:23:32] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[01:23:32] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

@@ -47,3 +47,19 @@
 [00:49:46] [Netty Worker IO Thread #2/INFO]: [Googl] disconnected with: Server closed
 [00:49:46] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36122|Googl] -> UpstreamBridge has disconnected
 [00:49:46] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:36122|Googl] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:52:59] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57378]: Connected via websocket
+[00:52:59] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57378]: Origin header is https://eaglercraft.com
+[00:53:00] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57378]: Logged in as 'Googl'
+[00:53:00] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57378|Googl] -> UpstreamBridge has connected
+[00:53:00] [Netty Worker IO Thread #3/INFO]: [Googl|/[0:0:0:0:0:0:0:1%0]:57378] <-> ServerConnector [lobby] has connected
+[00:53:26] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58690]: Connected via websocket
+[00:53:26] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58690]: Origin header is https://eaglercraft.com
+[00:53:26] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58690]: Logged in as 'skibidi_rizz'
+[00:53:26] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58690|skibidi_rizz] -> UpstreamBridge has connected
+[00:53:26] [Netty Worker IO Thread #0/INFO]: [skibidi_rizz|/[0:0:0:0:0:0:0:1%0]:58690] <-> ServerConnector [lobby] has connected
+[00:54:20] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58690|skibidi_rizz] -> UpstreamBridge has disconnected
+[00:54:20] [Netty Worker IO Thread #0/INFO]: [skibidi_rizz] disconnected with: Proxy lost connection to server.
+[00:54:20] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58690|skibidi_rizz] <-> DownstreamBridge <-> [lobby] has disconnected
+[01:23:32] [Netty Worker IO Thread #3/INFO]: [Googl] disconnected with: Server closed
+[01:23:32] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57378|Googl] -> UpstreamBridge has disconnected
+[01:23:32] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57378|Googl] <-> DownstreamBridge <-> [lobby] has disconnected
